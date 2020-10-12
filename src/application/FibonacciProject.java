@@ -16,6 +16,7 @@ import javafx.scene.chart.XYChart;
  * 
  * @author Mike Hodges
  * @version 1.0000001
+ * 
  */
 public class FibonacciProject extends Application {
 //	@Override
